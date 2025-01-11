@@ -1,25 +1,25 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: "장준수",
+    image: "/junsu.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "backend engineer",
     bio: "",
     email: "melon8372@gmail.com",
-    linkedin: "www.linkedin.com/in/준수-장-235209150",
-    github: "github.com/meloning",
+    linkedin: "준수-장-235209150",
+    github: "meloning",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `mega-coffee-side-project`,
+      href: "https://github.com/meloning/mega-coffee-employee-manage-project",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "meloning blog",
+    description: "welcome to meloning blog!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
