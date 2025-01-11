@@ -5,7 +5,7 @@ const CONFIG = {
     image: "/junsu.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "backend engineer",
     bio: "일상, 회고, 개발 내용을 포스팅합니다.",
-    email: "melon8372@gmail.com",
+    email: "wnstn8372@gmail.com",
     linkedin: "준수-장-235209150",
     github: "meloning",
     instagram: "",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "meloning blog",
-    description: "welcome to meloning blog!",
+    title: "junsu blog",
+    description: "welcome to junsu blog!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
